@@ -1,5 +1,5 @@
 
-This notebook was made to accomplish a challenge that consists of **optimizing-well-being-at-work**
+**optimizing-well-being-at-work Challenge**
 #### Link to the challenge:
 
 https://challengedata.ens.fr/participants/challenges/15/
