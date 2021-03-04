@@ -1,5 +1,5 @@
 
-# optimizing-well-being-at-work Challenge
+# Optimizing well-being at work by Oze Energies
 #### Link to the challenge:
 
 https://challengedata.ens.fr/participants/challenges/15/
