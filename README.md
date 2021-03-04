@@ -1,5 +1,5 @@
 
-**optimizing-well-being-at-work Challenge**
+# optimizing-well-being-at-work Challenge
 #### Link to the challenge:
 
 https://challengedata.ens.fr/participants/challenges/15/
